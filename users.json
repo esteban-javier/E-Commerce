@@ -1,0 +1,55 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "test1@test.com",
+    "password": "password",
+    "id": "4c281659"
+  },
+  {
+    "email": "peperoni",
+    "password": "pep",
+    "id": "1b169b81"
+  },
+  {
+    "email": "perritomalvado",
+    "password": "83f7f5d487b11f212ac5592946dc63bbc2d1d617231717bb8044c37e9215941503b5183e85eac607ca3f7ee911d302f590f4be4747ae32763d635b2535ce0628.d20717cb573dfc57",
+    "id": "8e43776a"
+  },
+  {
+    "email": "pepepe",
+    "password": "ec63fbf458b38d14c5a74e6118c529eacb6b525d790db3206ba8edff79516e90471f28884c1021cc89538e17d9c8f7d598f4110bbc286beb97b8d5d008062e1a.e1e491a28923c498",
+    "id": "7e171b76"
+  },
+  {
+    "email": "@peperoni",
+    "password": "ca4943ac361bcc2f9a0802310c5737f550c9cb691055f4a0f6358565e820c344f57d6f82141d1fca5292847824985b862e69b9f9a43f4cb77401b8cb4adbc944.66001fa526972bd0",
+    "id": "9cf7d4a2"
+  },
+  {
+    "email": "@pepepe",
+    "password": "d1ec4732617e81cdb0b41ee908bcc5adba9a6cc8a8628a7efdec36935f3c2e667981a055a89d1b06ae0ca43bee7c4453d7d96f048e9705f34dc41916bcc1a495.21b23a2db18504af",
+    "id": "31b5c365"
+  },
+  {
+    "email": "@peperoni",
+    "password": "00af194d18c9b2640b6a1fd4825e3d1289528ea40540315d21cea9d47bcb37e7e88d717cf86eed142649fd1aeac85d446252930cebd1ee8b6e08d728fbff2f52.5f4319ce3aa11010",
+    "id": "63aca115"
+  },
+  {
+    "email": "perro@gmail",
+    "password": "15dcf80fbeba76adb929f49d0ca9d698bd7fc118bda0ffa31f5be5e4f7d9408069219c4439bb95397f48096d7c4e4f727b0556069a5118b68a0da396e10eda08.e4b369d190142817",
+    "id": "5f06934c"
+  },
+  {
+    "email": "@asdwqe",
+    "password": "cf7e925132faa590114470d6d334cefd747ad003d59b82ab715b0c70fca9d2acb344ef5093c579ecd0b84f25a5972f77bb9009007041154f54402398ca85bcc2.5dbd6f67ef69c1ff",
+    "id": "6d37492e"
+  },
+  {
+    "email": "pepeargento@p.com",
+    "password": "e97e1242b0270a8723dc84e5b1f06e2152c9f8ffd08752d351ffe24909553388049b0fd831acb31d0a2d7debd93ca80ea68cbdf3ff0207a06a352eb0e517b9ba.f8e1e2878884991c",
+    "id": "3af04296"
+  }
+]
